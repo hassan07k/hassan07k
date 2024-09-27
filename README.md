@@ -24,7 +24,7 @@ I'm passionate about creating interactive and dynamic web applications using Jav
 ### 🔗 Connect with me:
 
 - [GitHub](https://github.com/Hassan07k)
-- [LinkedIn]([[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/feed/)]
+- [linkedin]([https://github.com/Hassan07k](https://www.linkedin.com/feed/))
 
 ---
 
