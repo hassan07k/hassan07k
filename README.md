@@ -1,6 +1,6 @@
 # Hi there, I'm Hassan a  Dev 
 
-![Monkey]([https://your-image-url.com/monkey.jpg](https://files.catbox.moe/eh4fnf.gif)) 
+![gojo]([https://your-image-url.com/monkey.jpg](https://files.catbox.moe/eh4fnf.gif)) 
 I'm passionate about creating interactive and dynamic web applications using JavaScript, HTML, and CSS.
 
 ---
