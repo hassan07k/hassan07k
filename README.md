@@ -8,7 +8,7 @@ I'm passionate about creating interactive and dynamic web applications using Jav
 
 ### 🛠 My Tech Stack
 
-- **JavaScript**: Writing clean and efficient code.
+- **JavaScript**: Writing basic.
 - **HTML**: Crafting semantic, accessible web pages.
 - **CSS**: Styling websites with a modern, responsive design.
 
@@ -16,9 +16,9 @@ I'm passionate about creating interactive and dynamic web applications using Jav
 
 ### 🔧 Some Fun Projects:
 
-1. **Banana Catch Game 🍌** - A fun game made with vanilla JavaScript, HTML5 canvas, and CSS3.
-2. **Monkey Blog** - A personal blog made using HTML, CSS, and JavaScript.
-3. **CSS Animations Zoo** - A gallery of animal-themed animations using only CSS.
+1. **website about me** - A fun game made with vanilla JavaScript, HTML5 canvas, and CSS3.
+2. **telefondatakatalog** - A personal blog made using python.
+
 
 ---
 
