@@ -1,6 +1,6 @@
 # Hi there, I'm Hassan a  Dev 
 
-![gojo]([https://your-image-url.com/monkey.jpg](https://files.catbox.moe/eh4fnf.gif)) 
+![gojo](https://files.catbox.moe/eh4fnf.gif) 
 I'm passionate about creating interactive and dynamic web applications using JavaScript, HTML, and CSS.
 
 ---
@@ -24,7 +24,7 @@ I'm passionate about creating interactive and dynamic web applications using Jav
 ### 🔗 Connect with me:
 
 - [GitHub](https://github.com/Hassan07k)
-- [linkedin]([https://github.com/Hassan07k](https://www.linkedin.com/feed/))
+- [linkedin](https://www.linkedin.com/in/meer-hassan-28b5332b6/)
 
 ---
 
