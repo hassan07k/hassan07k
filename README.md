@@ -1,7 +1,6 @@
-# Hi there, I'm Monkey Dev 🐒
+# Hi there, I'm Hassan a  Dev 
 
-![Monkey](https://your-image-url.com/monkey.jpg) <!-- Replace this URL with the actual URL of the monkey image -->
-
+![Monkey]([https://your-image-url.com/monkey.jpg](https://files.catbox.moe/eh4fnf.gif)) 
 I'm passionate about creating interactive and dynamic web applications using JavaScript, HTML, and CSS.
 
 ---
@@ -24,8 +23,8 @@ I'm passionate about creating interactive and dynamic web applications using Jav
 
 ### 🔗 Connect with me:
 
-- [GitHub](https://github.com/your-username)
-- [LinkedIn](https://linkedin.com/in/your-linkedin)
+- [GitHub](https://github.com/Hassan07k)
+- [LinkedIn]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/feed/))
 
 ---
 
