@@ -3,7 +3,7 @@
 ![gojo](https://files.catbox.moe/tf1ru2.gif)
 
 ---
-I'm passionate about creating interactive and dynamic web applications using JavaScript, HTML, and CSS.
+I'm passionate about creating interactive and dynamic web applications using JavaScript, HTML, PYTHON, and CSS.
 ---
 
 ### 🛠 My Tech Stack
