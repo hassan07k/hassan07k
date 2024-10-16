@@ -1,4 +1,4 @@
-# Hi there, I'm Hassan a  Dev 
+# Hi there, I'm Hassan
 
 ![gojo](https://files.catbox.moe/tf1ru2.gif)
 
